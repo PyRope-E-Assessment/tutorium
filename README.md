@@ -1,5 +1,5 @@
 ## PyRope_Features_Demo_0.1.1.ipynb
-A presentation of the features of the PyRope package using the example of an quadratic function
+A presentation of the features of the PyRope package using the example of a quadratic function
 
 ## pyrope-tutorial
 + PyRope Tutorial Teil 1_0.1.1.ipynb  
